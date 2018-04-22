@@ -1,0 +1,26 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Invited
+
+* Marzo 2018	"La professione del chimico nell’era di Industry 4.0", CNR (Bo)
+
+* Settembre 2017	"Intelligenza artificiale in produzione", Fiera Farete Bologna (Bo)
+	
+* Giugno 2017	"Strategie data-driven per l’efficienza produttiva", Politecnico di Milano (Mi)
+	
+* Maggio 2017	"Modelli predittivi che migliorano l’efficienza produttiva", LMSpace Cittadella (Pd)
+	
+* Aprile 2017	"Efficienza, qualità ed innovazione nel cuore delle smart factory"", UNIMORE (Mo)
+	
+* Febbraio 2017	"Analisi Dati per l’Efficienza Energetica", UNIBO (Bo)
+	
+* Giugno 2016	"Big Data: From Data To business", INDUSTRIAL TECHNOLOGY EFFICIENCY DAY (Bo)
+	
+* Febbraio 2016	"Smart Factory: come trasformare i dati in Innovazione", LMSpace Cittadella (Pd)
