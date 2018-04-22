@@ -8,7 +8,7 @@ navbar:
     - text: "Speaking"
       href: talks.html
     - text: "Apps"
-      href: Apps.html
+      href: apps.html
     - text: "Training"
       href: training.html
   right:
