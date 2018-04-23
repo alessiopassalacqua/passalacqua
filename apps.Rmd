@@ -9,4 +9,4 @@ output:
 
 ## Dashboard 
 
-[Dashboard per il controllo del colore e della qualità del processo di produzione di piastrelle ceramiche](https://produzioneperfetta.shinyapps.io/systemcontrol/)
+Dashboard per il controllo del colore e della qualità del processo di produzione di piastrelle ceramiche, [dashboard systemcontrol](https://produzioneperfetta.shinyapps.io/systemcontrol/)

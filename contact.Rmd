@@ -1,0 +1,24 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+Per qualunque cosa, non esitare a contattarmi
+
+Alessio Passalcqua<br>
+via Chinnici, 30<br>
+41125, Modena<br>
+Italy<br>
+alessio.passalacqua[@]gmail.com<br>
+
+
+O entriamo in contatto con Linkedin (il link a linkedin lo trovi in alto a destra).
