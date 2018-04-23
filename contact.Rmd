@@ -5,10 +5,7 @@ output:
     toc_float: true
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
-
----
----
+## Contatti
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
@@ -20,5 +17,19 @@ via Chinnici, 30<br>
 Italy<br>
 alessio.passalacqua[@]gmail.com<br>
 
+Oppure, entriamo in contatto con Linkedin (trovi il link in alto a destra).
 
-O entriamo in contatto con Linkedin (il link a linkedin lo trovi in alto a destra).
+# Come Posso esserti utile
+
+Sei un'Azienda che produce e vuoi fare formazione in ambito Data Science?
+Posso offrirti corsi a diversi livelli di apprentimento sui metodi per l'efficienza produttiva. Il corso è intitolato "Data Science for Smart Factory"
+
+Sei un ente di Formazione?
+Posso occuparmi di corsi Data Science/Data Mining
+
+Sei uno studente o un libero professionista?
+Posso offrirti lezioni private e tutoraggio per tesi e progetti
+
+
+
+

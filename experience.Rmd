@@ -9,18 +9,26 @@ output:
 
 ## Formazione/Esperienze Professionali
 
-* 1997-2002 Laurea in chimica 110/110, Università di Modena e Reggio Emilia
+* 2016-oggi Formatore Data Science/Data Mining con R, Modena
 
-* 2003-2004 Analista di laboratorio, Neotron SpA, Modena
-
-* 2004-2007 Dottorato in Chimica, Università di Modena e Reggio Emilia
-
-* 2007-2008 Ricercatore Post-Doc, University of Missouri, USA 
-
-* 2008-2009 Responsabile di Processo, Pasello S.r.l. Trattamenti Termici, Bologna
-
-* 2009-2015 Assegnista di Ricerca, Università di Modena e Reggio Emilia
+* 2015-oggi Docente Matematica e Scienze, Scuola secondaria, Modena
 
 * 2015-2017 Data Scientist Freelance, Produzione Perfetta, Modena
 
-* 2015-oggi Docente Matematica e Scienze, Scuola secondaria, Modena
+* 2009-2015 Assegnista di Ricerca, Università di Modena e Reggio Emilia
+
+* 2008-2009 Responsabile di Processo, Pasello S.r.l. Trattamenti Termici, Bologna
+
+* 2007-2008 Ricercatore Post-Doc, University of Missouri, USA
+
+* 2004-2007 Dottorato in Chimica, Università di Modena e Reggio Emilia
+
+* 2003-2004 Analista di laboratorio, Neotron SpA, Modena
+
+* 1997-2002 Laurea in chimica 110/110, Università di Modena e Reggio Emilia
+
+
+
+
+
+
