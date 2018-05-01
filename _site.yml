@@ -7,10 +7,10 @@ navbar:
       href: experience.html
     - text: "Speaking"
       href: talks.html
+    - text: "Teaching"
+      href: training.html
     - text: "Apps"
       href: apps.html
-    - text: "Training"
-      href: training.html
     - text: "Publication"
       href: publication.html 
       
