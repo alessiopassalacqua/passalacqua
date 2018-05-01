@@ -1,0 +1,35 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+## Data Science
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+1. A. Passalacqua, C. Durante, M. Li Vigni;
+*[Strategie data-driven per migliorare l’efficienza produttiva](files/strategie_data-driven_efficienza_produttiva_passalacqua.pdf)*; Automazione e Strumentazione, 2017, 84
+
+2. M. Montorsi, C. Mugoni, A. Passalacqua, A. Annovi, F. Marani, L. Fossa, R. Capitani, T. Manfredini; *[Improvement of colour quality and reduction of defects in the ink jet-printing technology for ceramic tiles production: a Design of Experiments Study](https://www.sciencedirect.com/science/article/pii/S027288421501799X)*; Ceramics International, 2016, 42, 1459
+
+## Theoretical Chemistry
+
+
+3. R. Dawes, A. Passalacqua, A. F. Wagner, T. D. Sewell, M. Minkoff e D. L. Thompson [Interpolating moving least-squares methods for fitting potential energy surfaces: Using classical trajectories to explore configuration space](https://aip.scitation.org/doi/abs/10.1063/1.3111261)*; Journal of Chemical Physics, 2009, 130, 144107
+
+4. F. Faglioni, A. Passalacqua, P. Lazzaretti; [Parity Violation Energy of Biomolecules: Polypeptides](Origins of Life and Evolution of Biospheres, 2005, 35, 461) 
+
+
+## Computational & Experimental Chemistry
+
+5. C. Bruno, R. Benassi, A. Passalacqua, F. Paolucci, C. Fontanesi, M. Marcaccio, L. Scott;
+*[Electrochemical  and  Theoretical  Investigation  of  Corannulene Reduction  Processes.](https://pubs.acs.org/doi/abs/10.1021/jp8045092)*;
+The Journal of Physical Chemistry B, 2009 113,1954
+
+6. F. Parenti, R. Cagnoli, R. Benassi, A. Mucci, A. Passalacqua, L. Schenetti;
+*[One-pot synthesis of symmetric octithiophenes from asymmetric β-alkylsulfanil bithiophenes](https://pubs.acs.org/doi/abs/10.1021/ma0614141)* ; Macromolecules, 2006, 39, 8393
+
+
+

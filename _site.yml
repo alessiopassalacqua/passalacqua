@@ -11,6 +11,9 @@ navbar:
       href: apps.html
     - text: "Training"
       href: training.html
+    - text: "Publication"
+      href: publication.html 
+      
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
