@@ -7,6 +7,18 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## Dashboard 
+## Dashboard Controllo di processo
 
-Dashboard per il controllo del colore e della qualità del processo di produzione di piastrelle ceramiche, [dashboard systemcontrol](https://produzioneperfetta.shinyapps.io/systemcontrol/)
+Dashboard interattiva per la visualizzazione risultati DOE.
+Controllo del colore e della qualità del processo di piastrelle ceramiche in funzione dei parametri di produzione, [dashboard systemcontrol](https://produzioneperfetta.shinyapps.io/systemcontrol/).
+
+## Report Dinamico
+
+Esempio di un applicazione Data Science in un processo di produzione.
+[Classificazione materie prime](https://produzioneperfetta.shinyapps.io/DataScience_in_Produzione/)
+
+## Dashboard ricerca sensoriale
+
+Dashboard interattiva per la visualizzazione risultati di una ricerca sensoriale per la creazione di un nuovo cocktail.
+[ricerca sensoriale](https://produzioneperfetta.shinyapps.io/visual-smart/)
+In collaborazione con [ChemSTAMP](http://www.chemstamp.it/index.php?lang=it)
