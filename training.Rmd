@@ -18,6 +18,8 @@ output:
 * Novembre 2016: Analisi dati per la Fabbrica Intelligente (8h) - LMSpace (Padova)
 
 
+> Imparo dai più grandi insegno ai più piccoli
+
 # Testimonianze
 
 ## Corso Data Mining
